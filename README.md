@@ -1,0 +1,1 @@
+# paradigma_das_linguagens
