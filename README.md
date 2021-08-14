@@ -5,4 +5,4 @@
 <p align="center"> Acesse o Wiki desse repositório para ler sobre programação funcional.</p>
 <h2 align="center">Links</h2>
 
-* Wiki: https://github.com/felipecal/paradigma_das_linguagens/wiki/Paradigmas-das-Linguagens-da-Progamação<br>
+* Wiki: https://github.com/felipecal/paradigma_das_linguagens/wiki<br>
