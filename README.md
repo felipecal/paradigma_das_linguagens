@@ -6,3 +6,5 @@
 <h2 align="center">Links</h2>
 
 * Wiki: https://github.com/felipecal/paradigma_das_linguagens/wiki<br>
+<br>
+<p align="center">Feito por: Felipe Caldas</p>
