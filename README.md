@@ -7,4 +7,4 @@
 
 * Wiki: https://github.com/felipecal/paradigma_das_linguagens/wiki<br>
 <br>
-<p align="center">Feito por: Felipe Caldas</p>
+<p align="center">Feito por: <a href="https://github.com/felipecal">Felipe Caldas</a></p>
