@@ -5,6 +5,5 @@
 <p align="center"> Acesse o Wiki desse repositório para ler sobre programação funcional.</p>
 <h2 align="center">Links</h2>
 
-* Wiki: https://github.com/felipecal/paradigma_das_linguagens/wiki<br>
-<br>
+<p align="center">Wiki: <a href="https://github.com/felipecal/paradigma_das_linguagens/wiki">felipecal/paradigma_das_linguagens</a></p>
 <p align="center">Feito por: <a href="https://github.com/felipecal">Felipe Caldas</a></p>
